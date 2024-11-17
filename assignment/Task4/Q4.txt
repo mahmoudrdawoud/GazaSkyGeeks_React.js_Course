@@ -1,0 +1,10 @@
+TypeScript Basics:
+Task 4: 
+Create a TypeScript interface for a Product with the following properties:
+
+name: string
+price: number
+Write a function that:
+
+Accepts an array of Product objects.
+Returns the total price of all products.
